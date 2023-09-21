@@ -1,5 +1,5 @@
 \contentsline {section}{\numberline {1}Introduction}{3}{}%
 \contentsline {section}{\numberline {2}Target User}{3}{}%
-\contentsline {section}{\numberline {3}Product Niche}{3}{}%
-\contentsline {section}{\numberline {4}Features \& Functionality}{3}{}%
-\contentsline {section}{\numberline {5}Development Plan}{3}{}%
+\contentsline {section}{\numberline {3}Product Niche}{4}{}%
+\contentsline {section}{\numberline {4}Features \& Functionality}{4}{}%
+\contentsline {section}{\numberline {5}Development Plan}{4}{}%
