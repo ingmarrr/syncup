@@ -1,5 +1,6 @@
-
 \documentclass[12pt]{article}
+
+\usepackage{tabularx}
 
 \begin{document}
 
@@ -42,7 +43,49 @@ from other application to make it more intuitive and user friendly. In addition 
 to connect to a bank account(for example: a shared one) and display statistic on monthly payments, in addition to this different budgets 
 can also be created which will notify the users if the threshold is about to pass. 
 
+\pagebreak
 \section{Features \& Functionality}
+
+\subsection{Features}
+
+We will have different actors in our application, each with different features and functionality. The actors are as follows:
+
+\begin{itemize}
+    \item Group Member
+    \item Group Admin
+\end{itemize}
+
+Depending on their level of authorization, users will have different rights and access to the application's features. 
+
+\setlength{\tabcolsep}{3pt}
+
+\begin{table}[h]
+    \small
+    \begin{tabularx}{\textwidth}{|p{12pt}|p{85pt}|X|X|}
+        \hline  & User & Requirement & Goal \\
+        \hline 1 & Group Member & View Calendar & View plans and Events \\
+        \hline 2 & Group Member & Edit Calender & Add/Remove/Edit plants/activies \\
+        \hline 3 & Group Member & View Shopping List & View items to be bought \\
+        \hline 4 & Group Member & Edit Shopping List & Add/Remove/Edit items to be bought \\
+        \hline 5 & Group Member & View To-Do List & View tasks to be done \\
+        \hline 6 & Group Member & Edit To-Do List & Add/Remove/Edit tasks to be done \\
+        \hline 7 & Group Admin & Add/Remove Group Member & Add/Remove Group Member \\
+        \hline 8 & Group Admin & Add/Remove Group Admin & Add/Remove Group Admin \\
+        \hline 9 & Group Admin & Manage Permissions & Manage Permissions \\
+        \hline 10 & Group Admin & Assign Budets & Assign Budets/Allowance \\
+        \hline 
+    \end{tabularx}
+\end{table}
+
+\subsection{Requirements}
+
+\subsubsection{Hardware Requirements}
+
+Android or IOS device. Screen size of 6.1 inches or larger.
+
+\subsubsection{Software Requirements}
+
+Android 10 and IOS 13.0 or later.
 
 \section{Development Plan}
 
