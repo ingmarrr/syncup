@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1695380982 "/Users/alex/Uni/Cross-Platform-Development/Assignment1/syncup/report/proposal.tex" "proposal.pdf" "proposal" 1695380984 0
-  "/Users/alex/Uni/Cross-Platform-Development/Assignment1/syncup/report/proposal.tex" 1695380792 7284 f5282b97fd2dc171654cbb71e395c709 ""
+["pdflatex"] 1695385951 "/Users/alex/Uni/Cross-Platform-Development/Assignment1/syncup/report/proposal.tex" "proposal.pdf" "proposal" 1695385953 0
+  "/Users/alex/Uni/Cross-Platform-Development/Assignment1/syncup/report/proposal.tex" 1695385950 8612 27b4e313bdd08d9dd3a8189e60b746d2 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -32,9 +32,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695299917 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695299769 7883451 fa0d6f4fc8b3254533d0f9fad4feefe7 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "proposal.aux" 1695380983 993 d7243e170a91a6e7b589edb4f23367ba "pdflatex"
-  "proposal.tex" 1695380792 7284 f5282b97fd2dc171654cbb71e395c709 ""
-  "proposal.toc" 1695380983 592 0ac94bcbdb1f4210652afb9507488db9 "pdflatex"
+  "proposal.aux" 1695385953 990 f22ea67b2a16b24add1b50f9d09fb5cb "pdflatex"
+  "proposal.tex" 1695385950 8612 27b4e313bdd08d9dd3a8189e60b746d2 ""
+  "proposal.toc" 1695385953 589 f9d2d8a54adc1679a2e39a07ad228271 "pdflatex"
   (generated)
   "proposal.aux"
   "proposal.log"

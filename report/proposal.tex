@@ -41,8 +41,9 @@ Sarah is looking for an app that simplifies her family's hectic schedule. She wa
 She desires a shared shopping list to streamline grocery shopping and meal planning.
 Sarah is conscious of her family's budget, so expense tracking and financial management features are important.
 She values user-friendly interfaces and expects the app to be intuitive and easy to navigate.
+\\
+\\
 User Persona 2: Young Couple - Alex and Emily
-
 Demographics:
 Age: Alex (28), Emily (26)
 Gender: Both Male and Female
@@ -53,8 +54,9 @@ They are interested in a shared calendar to keep track of personal and joint eve
 The ability to collaboratively manage to-do lists for household tasks is essential.
 They seek a streamlined way to split expenses and track their spending.
 User privacy is crucial, as they want to share some information but keep other aspects of their lives private from each other.
+\\
+\\
 User Journey 1: Sarah - The Family Organizer
-
 Discovery and Onboarding:
 Sarah discovers Syncup through a friend's recommendation and downloads the app from the app store.
 She creates her account and sets up her family profile, adding her spouse and children.
@@ -65,8 +67,9 @@ In the evening, she reviews and manages family expenses and budgets using the ap
 Positive Outcomes:
 Syncup has helped Sarah and her family stay organized, reduce scheduling conflicts, and better manage their expenses.
 Sarah appreciates the convenience of having all these features in one app.
+\\
+\\
 User Journey 2: Alex and Emily - The Young Couple
-
 Registration and Customization:
 Alex and Emily sign up for Syncup after their wedding and customize their profiles.
 They set up a shared calendar and a to-do list for household chores.
@@ -102,6 +105,7 @@ can also be created which will notify the users if the threshold is about to pas
 We will have different actors in our application, each with different features and functionality. The actors are as follows:
 
 \begin{itemize}
+    \setlength\itemsep{0em}
     \item Group Member
     \item Group Admin
 \end{itemize}
@@ -114,30 +118,54 @@ Depending on their level of authorization, users will have different rights and 
     \small
     \begin{tabularx}{\textwidth}{|p{12pt}|p{85pt}|X|X|}
         \hline  & User & Requirement & Goal \\
-        \hline 1 & Group Member & View Calendar & View plans and Events \\
-        \hline 2 & Group Member & Edit Calender & Add/Remove/Edit plants/activies \\
-        \hline 3 & Group Member & View Shopping List & View items to be bought \\
-        \hline 4 & Group Member & Edit Shopping List & Add/Remove/Edit items to be bought \\
-        \hline 5 & Group Member & View To-Do List & View tasks to be done \\
-        \hline 6 & Group Member & Edit To-Do List & Add/Remove/Edit tasks to be done \\
-        \hline 7 & Group Admin & Add/Remove Group Member & Add/Remove Group Member \\
-        \hline 8 & Group Admin & Add/Remove Group Admin & Add/Remove Group Admin \\
-        \hline 9 & Group Admin & Manage Permissions & Manage Permissions \\
-        \hline 10 & Group Admin & Assign Budets & Assign Budets/Allowance \\
-        \hline 
+        \hline 1 & User & Registration & Create a profile, and login, reset password \\ 
+        \hline 2 & Group Member & View Calendar & View plans and Events \\
+        \hline 3 & Group Member & Edit Calender & Add/Remove/Edit plants/activies \\
+        \hline 4 & Group Member & View Shopping List & View items to be bought \\
+        \hline 5 & Group Member & Edit Shopping List & Add/Remove/Edit items to be bought \\
+        \hline 6 & Group Member & View To-Do List & View tasks to be done \\
+        \hline 7 & Group Member & Edit To-Do List & Add/Remove/Edit tasks to be done \\
+        \hline 8 & Group Admin & Add/Remove Group Member & Add/Remove Group Member \\
+        \hline 9 & Group Admin & Add/Remove Group Admin & Add/Remove Group Admin \\
+        \hline 10 & Group Admin & Manage Permissions & Manage Permissions \\
+        \hline 11 & Group Admin & Assign Budgets & Assign Budgets/Allowance \\
+        \hline 12 & User & Receive notifications & Receive notifications about upcoming events, or reminders \\
+        \hline
     \end{tabularx}
 \end{table}
 
 \subsection{Requirements}
 
-\subsubsection{Hardware Requirements}
+\subsubsection{Technical details}
 
-Android or IOS device. Screen size of 6.1 inches or larger.
+Android or IOS device. Screen size of 6.1 inches or larger, at least 200mb of storage.
+Android 10 and IOS 13.0 or later. The app wil interact with payment gateways, and outside servers. 
 
-\subsubsection{Software Requirements}
-
-Android 10 and IOS 13.0 or later.
 
 \section{Development Plan}
+
+\begin{table}[h]
+    \begin{tabularx}{\textwidth}{|X|p{100pt}|}
+        \hline  Feature & Estimated Days \\
+        \hline  Basic setup(database, models, etc.) & 7 \\
+        \hline  Calendar Functionality & 5-7 \\
+        \hline  Shopping List Features & 5-7 \\
+        \hline  To Do list Features & 3-4 \\
+        \hline  Admin Functionality & 4-5 \\
+        \hline  Finance Functionality & 10 \\
+        \hline
+    \end{tabularx}
+\end{table}
+
+\subsection{Risks during implementation}
+\begin{itemize}
+    \setlength\itemsep{-1em}
+    \item   The implementation of payment gateways might prove a challenge to implement. \\
+    \item   Implementation might face technical hurdles in integrating multiple features seamlessly. \\ 
+    \item   Ensuring the app works smoothly on both IOS and Android might prove challenging. \\ 
+    \item   Attracting and encouraging users to adopt out app. \\
+    \item   Handling sensitive user data such as financial information and personal calendars could pose security risks. \\
+\end{itemize}
+
 
 \end{document}
