@@ -1,51 +1,51 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.9)  21 SEP 2023 16:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  22 SEP 2023 13:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/ingmarfalk/uni/Blekinge/syncup/report/proposal.tex
-(/Users/ingmarfalk/uni/Blekinge/syncup/report/proposal.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+**/Users/alex/Uni/Cross-Platform-Development/Assignment1/syncup/report/proposal.tex
+(/Users/alex/Uni/Cross-Platform-Development/Assignment1/syncup/report/proposal.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count179
-\c@section=\count180
-\c@subsection=\count181
-\c@subsubsection=\count182
-\c@paragraph=\count183
-\c@subparagraph=\count184
-\c@figure=\count185
-\c@table=\count186
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/tabularx.sty
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
-\col@sep=\dimen139
-\ar@mcellbox=\box47
-\extrarowheight=\dimen140
-\NC@list=\toks15
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box48
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box51
+\extrarowheight=\dimen142
+\NC@list=\toks16
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
 )
-\TX@col@width=\dimen141
-\TX@old@table=\dimen142
-\TX@old@col=\dimen143
-\TX@target=\dimen144
-\TX@delta=\dimen145
-\TX@cols=\count187
-\TX@ftn=\toks16
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count188
-\l__pdf_internal_box=\box49
-) (/Users/ingmarfalk/uni/Blekinge/syncup/report/proposal.aux)
+\TX@col@width=\dimen143
+\TX@old@table=\dimen144
+\TX@old@col=\dimen145
+\TX@target=\dimen146
+\TX@delta=\dimen147
+\TX@cols=\count193
+\TX@ftn=\toks17
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box53
+) (./proposal.aux)
 \openout1 = `proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -68,7 +68,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 11.
  [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/ingmarfalk/uni/Blekinge/syncup/report/proposal.toc
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./proposal.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -79,25 +79,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `proposal.toc'.
 
- [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+ [2] [3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
 []|\OT1/cmr/m/n/10.95 Add/Remove/Edit
  []
 
-[5] [6] (/Users/ingmarfalk/uni/Blekinge/syncup/report/proposal.aux) ) 
+[6{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [7] (./proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 536 strings out of 478994
- 9254 string characters out of 5858184
- 304714 words of memory out of 5000000
- 18081 multiletter control sequences out of 15000+600000
- 410453 words of font info for 50 fonts, out of 8000000 for 9000
+ 608 strings out of 476025
+ 11199 string characters out of 5790017
+ 1862388 words of memory out of 5000000
+ 21119 multiletter control sequences out of 15000+600000
+ 519310 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,9n,60p,206b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/ingmarfalk/uni/Blekinge/syncup/report/proposal.pdf (6 pages, 76562 bytes).
+ 41i,10n,48p,415b,260s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on proposal.pdf (7 pages, 86208 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
